@@ -1,12 +1,13 @@
 # Basic
-title: 郭冰
+title: 小小
 subtitle: 个人博客
-description: 欢迎来到我的个人站~
+description: 这里是小小的猪窝~
+
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: lucky
 # 头像里面的描述
-avatarDesc: ahh
-url: "guobing123123.github.io"
+avatarDesc: xiao
+url: "XiaoXiaochouzhuzhu.github.io"
 
 # Comment
 comment:
@@ -16,13 +17,14 @@ comment:
 
 # Social
 social:
-    weibo: http://weibo.com/u/5749332112
+    weibo: http://weibo.com/u/2691180392
     github: leopardpan
-    # zhihu: panpanleopard
+
+    # zhihu: xiaoxiao
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+​    jianshu: 2ada30d8d0f7
     # twitter: 
-    smail: 2511863074qq.com
+​    smail: 2511863074qq.com
 
 
 # 百度统计 
@@ -41,9 +43,10 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#  帮忙star一下，感谢~😆 地址： https://github.com/XiaoXiaochouzhuzhu/XiaoXiaochouzhuzhu.github.io
 #
 #
+
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
 
 
